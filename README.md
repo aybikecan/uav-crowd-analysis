@@ -1,6 +1,6 @@
 # UAV Crowd Movement & Density Analysis
 
-**MSc Data Science and Artificial Intelligence · Bournemouth University · 2026**  
+**MSc Dissertation Project · Data Science and Artificial Intelligence · Bournemouth University · 2026**  
 **Sibel Aybike Can** · Research prototype · Documentation and visual showcase only
 
 ## Overview
